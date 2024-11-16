@@ -2,7 +2,7 @@ import { RPCPostClient } from "../output/index.js"
 
 const publicKeyHex = "92caa31a2bfa97611cb504b8e077bf8552bbf362a67630ddc0796ac8a80674ea"
 const secretKeyHex = "94864ba172e331c2e5d7e1fc24da301330045d21bf95f901467e222605de0138"
-const serverURL = "https://localhost:6969"
+const serverURL = "http://localhost:6969/thingy-post-rpc"
 
 const testFunctions = new Map()
 
